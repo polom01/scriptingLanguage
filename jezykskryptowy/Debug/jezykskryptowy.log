@@ -1,0 +1,7 @@
+﻿  Main.cpp
+e:\aisd jezyk\jezykskryptowy\jezykskryptowy\main.cpp(925): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\aisd jezyk\jezykskryptowy\jezykskryptowy\main.cpp(987): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\aisd jezyk\jezykskryptowy\jezykskryptowy\main.cpp(1017): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+e:\aisd jezyk\jezykskryptowy\jezykskryptowy\main.cpp(1094): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  jezykskryptowy.vcxproj -> E:\aisd jezyk\jezykskryptowy\Debug\jezykskryptowy.exe
+  jezykskryptowy.vcxproj -> E:\aisd jezyk\jezykskryptowy\Debug\jezykskryptowy.pdb (Full PDB)
